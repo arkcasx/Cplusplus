@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\clark\documents\visual studio 2015\projects\permutation\source.cpp(20): warning C4018: '<': signed/unsigned mismatch
+  Permutation.vcxproj -> c:\users\clark\documents\visual studio 2015\Projects\Permutation\Debug\Permutation.exe
+  Permutation.vcxproj -> c:\users\clark\documents\visual studio 2015\Projects\Permutation\Debug\Permutation.pdb (Partial PDB)

@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\clark\documents\visual studio 2015\projects\shipbattle\source.cpp(76): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+LINK : fatal error LNK1168: cannot open c:\users\clark\documents\visual studio 2015\Projects\Shipbattle\Debug\Shipbattle.exe for writing
